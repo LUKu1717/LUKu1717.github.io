@@ -1,0 +1,7 @@
+PASSWORD = "balls"
+ints = input("Whats the Password: ")
+
+if(ints == PASSWORD):
+    print("Good boy")
+else:
+    print("Fuck off")
