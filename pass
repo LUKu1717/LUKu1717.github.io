@@ -1,7 +1,0 @@
-PASSWORD = "1a2b3c"
-ints = input("Whats the Password: ")
-
-if(ints == PASSWORD):
-    print("1 left")
-else:
-    print("Fuck off")
